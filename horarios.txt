@@ -4,4 +4,7 @@ De lunes a jueves de 13:00 a 23:00
 Viernes 12:00 a 23:59
 Sábado 11:00 a 23:59
 Domingo 9:00 a 16:00
+Dias festivos 10:00 a 17:00
+
+
 
